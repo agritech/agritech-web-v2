@@ -1,0 +1,12 @@
+.idea
+target
+node_modules
+build
+.settings
+.project
+.classpath
+yarn.lock
+npm-debug.log
+agritech.iml
+yarn.lock
+package-lock.json
